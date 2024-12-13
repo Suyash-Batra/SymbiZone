@@ -1,0 +1,2 @@
+# SymbiZone
+ SymbiZone is an e-commerce prototype offering a sleek, user-friendly interface to browse and add electronics like phones, headphones, laptops, watches, and TVs to the cart. While the front end is complete, backend development is underway. Built with HTML, CSS, and JavaScript, SymbiZone is your gateway to a seamless shopping experience. TO INITIALIZE IMPORT THE SQL DB OR CREATE ONE DB WITH THE REQUIRED TABLE
