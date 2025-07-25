@@ -1,0 +1,149 @@
+#content {
+  height: auto;
+  margin-top: 50px;
+  padding: 100px;
+  background-color: #232323;
+}
+
+.image1,
+.image1:hover,
+.image2,
+.image2:hover,
+.image3,
+.image3:hover,
+.image4,
+.image4:hover,
+.image5,
+.image5:hover,
+.image6,
+.image6:hover,
+.image7,
+.image7:hover,
+.image2,
+.image2:hover,
+.image8,
+.image8:hover,
+.image9,
+.image9:hover,
+.image10,
+.image10:hover,
+.image11,
+.image11:hover,
+.image12,
+.image12:hover,
+.image13,
+.image13:hover,
+.image14,
+.image14:hover,
+.image15,
+.image15:hover,
+.image16,
+.image16:hover,
+.image17,
+.image17:hover,
+.image18,
+.image18:hover,
+.image19,
+.image19:hover,
+.image20,
+.image20:hover {
+  height: 500px;
+  width: 600px;
+  border-radius: 0%;
+}
+
+#par2 {
+  color: white;
+  text-align: center;
+}
+
+#price_tag {
+  margin-top: 50px;
+  font-size: 20px;
+  font-weight: 600;
+  text-decoration: line-through;
+  color: #dc3f52;
+  margin-left: 20px;
+}
+
+#price {
+  margin-top: 50px;
+  font-size: 20px;
+  font-weight: 600;
+  color: white;
+}
+
+.parallel {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+}
+
+#count {
+  margin-top: 50px;
+  background-color: transparent;
+  height: 50px;
+  width: 100px;
+  border: solid white 2px;
+  padding-left: 20px;
+  margin-bottom: 50px;
+  font-size: 20px;
+  color: white;
+}
+
+#count::placeholder {
+  font-size: 20px;
+}
+
+.add_to_cart {
+  background-color: transparent;
+  border: solid white 2px;
+  height: 50px;
+  width: 300px;
+  color: white;
+  font-size: 20px;
+  transition: 0.5s;
+}
+
+.add_to_cart:hover {
+  color: #232323;
+  background-color: white;
+}
+
+#description {
+  margin-top: 100px;
+  color: white;
+  font-size: 20px;
+}
+
+#review {
+  margin-top: 100px;
+  color: white;
+}
+
+textarea {
+  height: 400px;
+  width: 700px;
+  margin-top: 50px;
+  font-size: 20px;
+  padding-left: 20px;
+  padding-top: 20px;
+  color: white;
+  background-color: transparent;
+}
+
+#submit {
+  background-color: transparent;
+  height: 50px;
+  width: 200px;
+  border: solid white 2px;
+  margin-top: 50px;
+  font-weight: 600;
+  font-size: 20px;
+  color: white;
+  transition: 0.5s;
+}
+
+#submit:hover {
+  box-shadow: 10px 10px white;
+}

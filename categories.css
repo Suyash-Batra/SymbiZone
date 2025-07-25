@@ -1,0 +1,31 @@
+.headings {
+  margin-top: 100px;
+  color: white;
+  font-size: 50px;
+  font-weight: 600;
+  margin-left: 150px;
+  margin-bottom: 50px;
+}
+
+#filter_sort {
+  margin-top: 20px;
+  margin-bottom: 50px;
+  margin-left: 150px;
+  margin-right: 150px;
+  display: flex;
+  justify-content: space-between;
+}
+
+#filter,
+#sort {
+  height: 50px;
+  width: 100px;
+  background: transparent;
+  border: solid 2px white;
+  color: white;
+  font-size: 20px;
+}
+
+#empty {
+  height: 200px;
+}
